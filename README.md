@@ -31,3 +31,24 @@ Organized backend logic
 
 Error handling and debugging implementation
 
+
+
+ # See ‘N’ Say Storymaker Web App
+
+An interactive web application that emulates the classic Mattel® See ‘N’ Say Storymaker toy. Users can select words or phrases from dynamic buttons to create custom stories and view the completed sentence.
+
+# Features
+
+Cycle through arrays of words/phrases for each part of a story
+
+Generate a completed story with one click
+
+Responsive, user-friendly interface
+
+Well-structured HTML, CSS, and JavaScript
+
+Project tracked with GitHub version control
+
+# Demo
+
+[https://sprightly-treacle-baf24c.netlify.app/]
